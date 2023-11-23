@@ -1,0 +1,14 @@
+{
+  "name": "rmui",
+  "version": "1.0.0",
+  "description": "React Material UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material/web": "^1.0.1"
+  }
+}
